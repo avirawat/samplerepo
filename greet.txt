@@ -1,9 +1,5 @@
 Greet
-
-
-
-
-
-
 New changes in Remote
 
+
+New Changes in Local Repo
